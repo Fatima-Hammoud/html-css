@@ -1,0 +1,101 @@
+    *{background-color:#84E1AD ;
+        text-align: center;
+        margin: auto;
+        padding: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+       
+    }
+    
+    .cabecalho{
+        width: 100%;
+        height: 100%;
+       background-color: #1D683E;
+        padding: 10px;             
+        color: white;
+        font-family:sans-serif;
+        font-weight: lighter;
+        text-shadow:2px black;
+        margin:0%
+    }         
+       
+    body{
+        width: auto;
+        height: auto;
+    }
+
+    .menu{
+        text-align: justify;
+        font-size: small;
+    }
+
+    .artigo{
+        width: 70%;
+        height: 70%;
+        background-color: white;
+        text-align: left;
+        
+        color: black;
+        border: #195C37;
+    }
+
+    h1.artigo{
+        color:#1D683E;
+        text-align: left;
+           }
+
+    h2.artigo{
+        background-color:#35bf73c2 ;
+        color: #1D683E;
+        text-align: left;
+    }
+
+    iframe{
+        background-color: #195C37;
+        padding: auto;
+    }
+
+    div{
+        background-color: white;
+        padding: 13px 13px;
+        text-align: left;
+        margin: auto;
+        box-shadow: 2px #195C37;
+        border-radius: 2px 2px 2px 2px;
+        
+      }
+
+    .extra{
+       
+        font-size: 14px;
+       
+    }
+
+    h3.extra{
+        background-color: #1D683E;
+        color: white;
+        margin: auto;
+        text-align: justify;
+        font-size: 14px;
+
+    }
+
+       footer{
+        background-color: #195C37;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: smaller;
+    }
+
+    strong{
+        background-color: #195C37;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    p#video{
+        background-color: #195C37;
+    }
+
+    picture.artigo{
+        text-align: center;
+        margin: auto;
+    }

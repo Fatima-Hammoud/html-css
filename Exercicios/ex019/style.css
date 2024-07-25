@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(186, 247, 186);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: darkgreen;
+}
+h1#principal{
+    text-align: center;
+    background-color: rgb(30, 99, 30);
+    color: aliceblue;
+}
+
+h2{
+    color: darkgreen;
+}
